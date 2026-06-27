@@ -12,3 +12,4 @@ if("10" === 10){
 } else{
     console.log("A string '10' não é estritamente igual ao número 10");
 }
+
