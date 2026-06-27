@@ -189,41 +189,42 @@ footer{
 /*MODO ESCURO */
 
 .dark-mode{
-    background:#121212;
+    background:#0f172a;
     color:#f5f5f5;
 }
 
 .dark-mode header{
-    background:linear-gradient(to right,#0d0d0d,#1a1a1a);
+    background:linear-gradient(to right,#003366,#004173);
 }
 
 .dark-mode .card{
-    background:#1f1f1f;
-    color:white;
+    background:#1e293b;
+    color:#f5f5f5;
 }
 
 .dark-mode .card h3{
-    color:#7cdaf9;
+    color:#004173;
 }
 
 .dark-mode input,
 .dark-mode textarea{
-    background:#2a2a2a;
-    color:white;
-    border:1px solid #555;
+    background:#111827;
+    color:#f5f5f5;
+    border:1px solid #4b5563;
 }
 
 .dark-mode footer{
-    background:#0d0d0d;
+    background:#002b4d;
 }
 
 .dark-mode .lista-habilidades li{
-    background:#222;
+    background:#004173;
+    color:white;
     border:1px solid #7cdaf9;
 }
 
 .dark-mode .sobre-container img{
-    border:3px solid #7cdaf9;
+    border:3px solid #004173;
 }
 
 /* Scroll personalizado */
